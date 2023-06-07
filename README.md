@@ -5,21 +5,18 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-📚 I'm currently studying Computer Science - UEMS<br>
-📑 I love to study programming<br>
-📫 How to reach me: rafaelaoliveira.dev@gmail.com
-
-
+- 📚 I'm currently studying **Computer Science - UEMS**
+- 🌱 I’m currently learning **Computing theory topics, JavaScript and TypeScript, Python, etc...**
+- 💬 Ask me about **C, C++, CMake and Makefile**
+- 📫 How to reach me **rafaelaoliveira.dev@gmail.com**
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafaelagoliveira&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelagoliveira&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelagoliveira&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rafaelagoliveira&theme=bear&hide_border=false&include_all_commits=true&count_private=false)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelagoliveira&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
